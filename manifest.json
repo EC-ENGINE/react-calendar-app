@@ -2,7 +2,7 @@
   "name": "営業日カレンダー",
   "about": "日本語対応の営業日管理アプリ",
   "permissions": ["MANAGE_ORDERS"],
-  "url": "https://ec-engine.github.io/react-calendar-app",
+  "appUrl": "https://ec-engine.github.io/react-calendar-app",
   "tokenTargetUrl": "https://ec-engine.github.io/react-calendar-app/api/register",
   "version": "1.0.0",
   "display": "standalone",
