@@ -7,7 +7,7 @@
   "about": "日本語対応の営業日管理アプリ",
   "permissions": ["MANAGE_ORDERS"],
   "appUrl": "https://ec-engine.github.io/react-calendar-app",
-  "tokenTargetUrl": "https://ec-engine.github.io/react-calendar-app/api/register",
+  "tokenTargetUrl": "https://calendar-api-sandy.vercel.app/api/register",
   "homepageUrl": "https://ec-engine.github.io/react-calendar-app",
   "supportUrl": "https://ec-engine.github.io/react-calendar-app/support",
   "configurationUrl": "https://ec-engine.github.io/react-calendar-app/configuration"
