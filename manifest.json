@@ -1,9 +1,9 @@
 {
-  "id": "com.ecengine.reactcalendar",
+  "id": "yumoto-calendar-app",
   "version": "1.0.0",
   "requiredSaleorVersion": "^3.22",
   "name": "営業日カレンダー",
-  "author": "EC-ENGINE",
+  "author": "EC-ENGINE-YUMOTO",
   "about": "日本語対応の営業日管理アプリ",
   "permissions": ["MANAGE_ORDERS"],
   "appUrl": "https://ec-engine.github.io/react-calendar-app",
