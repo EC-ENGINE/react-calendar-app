@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-calendar-app/static/css/main.64f8e45f.css",
+    "main.js": "/react-calendar-app/static/js/main.8a337c58.js",
+    "static/js/453.a6a779f8.chunk.js": "/react-calendar-app/static/js/453.a6a779f8.chunk.js",
+    "index.html": "/react-calendar-app/index.html",
+    "main.64f8e45f.css.map": "/react-calendar-app/static/css/main.64f8e45f.css.map",
+    "main.8a337c58.js.map": "/react-calendar-app/static/js/main.8a337c58.js.map",
+    "453.a6a779f8.chunk.js.map": "/react-calendar-app/static/js/453.a6a779f8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.64f8e45f.css",
+    "static/js/main.8a337c58.js"
+  ]
+}
