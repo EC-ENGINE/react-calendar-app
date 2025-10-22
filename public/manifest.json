@@ -1,11 +1,14 @@
 {
+  "id": "com.ecengine.reactcalendar",
+  "version": "1.0.0",
+  "requiredSaleorVersion": "^3.22",
   "name": "営業日カレンダー",
+  "author": "EC-ENGINE",
   "about": "日本語対応の営業日管理アプリ",
   "permissions": ["MANAGE_ORDERS"],
-  "url": "https://ec-engine.github.io/react-calendar-app",
-  "tokenTargetUrl": "https://ec-engine.github.io/react-calendar-app/api/register",
-  "version": "1.0.0",
-  "display": "standalone",
-  "theme_color": "#000000",
-  "background_color": "#ffffff"
+  "appUrl": "https://ec-engine.github.io/react-calendar-app",
+  "tokenTargetUrl": "https://calendar-api-sandy.vercel.app/api/register",
+  "homepageUrl": "https://ec-engine.github.io/react-calendar-app",
+  "supportUrl": "https://ec-engine.github.io/react-calendar-app/support",
+  "configurationUrl": "https://ec-engine.github.io/react-calendar-app/configuration"
 }
